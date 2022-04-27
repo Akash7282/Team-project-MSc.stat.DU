@@ -5,7 +5,7 @@
 
 # Team members
 * Akash Das(Team representative)
-* Swagata Sur ([@Swagata@2008](https://github.com/Swagata2008))
+* Swagata Sur 
 * Sumer Ghosh
 * Madhurima Gupta
 
