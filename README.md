@@ -1,4 +1,4 @@
-# Team-project-MSc.stat.DU
+# Credit Card Fraud Detection
 
 
 # Team members
